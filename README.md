@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola Soy Pepe 👋
+Bienvenido a miGitHub 
+
+Soy estudiante del Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación en la Universitat Oberta de Catalunya (UOC), combino mis estudios con el trabajo como Gestor de proyectos de interferencias y PIM, en el despliegue de la red de Orange.
+
+
 
 <!--
 **jromerocarm/Jromerocarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
